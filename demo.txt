@@ -1,7 +1,0 @@
-<<<<<<< .mine
-Demo Test
-Conflict test
-=======
-Demo Test
-Conflict test
->>>>>>> .theirs
